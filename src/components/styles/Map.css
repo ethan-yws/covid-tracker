@@ -1,0 +1,13 @@
+.map {
+  flex: 0.7;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: 1px solid lightgrey;
+}
+
+.map-png {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}

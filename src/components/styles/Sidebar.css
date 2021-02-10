@@ -1,0 +1,19 @@
+.sidebar {
+   flex: 0.3;
+   border-right: 1px solid lightgrey;
+}
+
+.data {
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-right: 10px;
+   border: 1px solid lightgrey;
+   
+}
+
+.user-input {
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-right: 10px;
+   border: 1px solid lightgrey;
+}
